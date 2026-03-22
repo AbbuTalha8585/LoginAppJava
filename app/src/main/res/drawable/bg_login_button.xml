@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/bg_login_button.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:type="linear"
+        android:angle="0"
+        android:startColor="#FFD580"
+        android:centerColor="#FFAA40"
+        android:endColor="#FF8C42"/>
+    <corners android:radius="14dp"/>
+</shape>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome_title">Welcome back</string>
+    <string name="welcome_subtitle">Sign in to your account</string>
+    <string name="label_username">USERNAME</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_username">Enter username</string>
+    <string name="hint_password">Enter password</string>
+    <string name="btn_login">Sign in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_up_prompt">Don\'t have an account? Sign up</string>
+</resources>

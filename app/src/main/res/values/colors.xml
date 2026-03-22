@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ── Background ── -->
+    <color name="login_bg">#110D2B</color>
+    <color name="login_bg_start">#0D0820</color>
+    <color name="login_bg_center">#1A0E3D</color>
+    <color name="login_bg_end">#0A1628</color>
+
+    <!-- ── Blobs ── -->
+    <color name="blob_top">#55FFD580</color>
+    <color name="blob_bottom">#557C5CBF</color>
+
+    <!-- ── Glass Card ── -->
+    <color name="glass_card_fill">#28FFFFFF</color>
+    <color name="glass_card_stroke">#30FFFFFF</color>
+
+    <!-- ── Input Fields ── -->
+    <color name="input_fill">#1EFFFFFF</color>
+    <color name="input_stroke">#25FFFFFF</color>
+    <color name="input_hint">#55FFFFFF</color>
+    <color name="input_text">#FFFFFF</color>
+
+    <!-- ── Labels & Subtext ── -->
+    <color name="label_text">#AAFFFFFF</color>
+    <color name="subtitle_text">#99FFFFFF</color>
+    <color name="muted_text">#88FFFFFF</color>
+
+    <!-- ── Accent / Gold ── -->
+    <color name="gold_start">#FFD580</color>
+    <color name="gold_mid">#FFAA40</color>
+    <color name="gold_end">#FF8C42</color>
+    <color name="forgot_password">#FFD580</color>
+    <color name="sign_up_link">#FFD580</color>
+
+    <!-- ── Button ── -->
+    <color name="btn_text">#1A0533</color>
+
+    <!-- ── White ── -->
+    <color name="white">#FFFFFF</color>
+
+</resources>

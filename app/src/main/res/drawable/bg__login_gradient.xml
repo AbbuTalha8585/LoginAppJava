@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/bg_login_gradient.xml -->
+<!-- Set this as android:background on your Activity's root in styles or via window -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:type="linear"
+        android:angle="145"
+        android:startColor="#0D0820"
+        android:centerColor="#1A0E3D"
+        android:endColor="#0A1628"/>
+</shape>
